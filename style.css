@@ -1,0 +1,173 @@
+body{
+    background-image: url("images/backgroundstars.jpg");
+}
+
+line{
+    stroke: white;
+}
+
+
+#imgUranus{
+    width:40px;
+    position: absolute;
+    left: 6vw;
+    top: 20vh;
+}
+h1 {
+    color:white;
+    writing-mode: vertical-lr;
+    text-orientation:upright;
+    position: absolute;
+    left: 5vw;
+    top:48vh;
+}
+
+
+#play{
+    position: absolute;
+    left: 20vw;
+    top: 45vh;
+}
+
+#pause{
+    position: absolute;
+    left: 20vw;
+    top: 55vh;
+}
+
+#stop{
+    position: absolute;
+    left: 20vw;
+    top: 65vh;
+}
+button{
+    background-color: transparent;
+    border-bottom:3px solid white;
+    color:turquoise;
+    width: 4rem;
+    height: 2.5rem;
+    font-weight: bolder;
+}
+
+
+
+#star1{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 20vh;
+    left: 80vw;
+}
+
+#star2{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 30vh;
+    left: 70vw;
+}
+
+#star3{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 35vh;
+    left: 55vw;
+}
+#star4{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 50vh;
+    left: 66vw;
+}
+#star5{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 35vh;
+    left: 55vw;
+}
+#star6{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 48vh;
+    left: 52vw;
+}
+#star7{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 43vh;
+    left: 48vw;
+}
+#star8{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 50vh;
+    left: 42vw;
+}
+#star9{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 76vh;
+    left: 48vw;
+}
+#star10{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 62vh;
+    left: 53vw;
+}
+#star11{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 64vh;
+    left:60vw;
+}
+#star12{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 68vh;
+    left: 60vw;
+}
+
+#star13{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 77vh;
+    left: 64vw;
+}
